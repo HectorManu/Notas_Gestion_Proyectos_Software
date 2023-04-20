@@ -44,12 +44,14 @@ En este repositorio estan las notas de de la clase de un proyecto de software pa
 
 suministro -> | Entradas | Técnicas | Salidas  | Usuarios
 --- | --- | --- | --- | ---
-financiador | EDT | --- | hola | usuario
+financiador | Matriz de resultados | ---   | hola | usuario
 
 1. desarrollo de la curva de uso de recursos
 2. preparación de la matri de adquisiciones
 3. aboración de la matriz de riesgos
 4. elaboración de la matriz de comunicación
 5. creación de la matriz de asignación de responsables 
+
+
 
 
