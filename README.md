@@ -50,8 +50,23 @@ financiador | Matriz de resultados | ---   | hola | usuario
 2. preparación de la matri de adquisiciones
 3. aboración de la matriz de riesgos
 4. elaboración de la matriz de comunicación
-5. creación de la matriz de asignación de responsables 
+5. creación de la matriz de asignación de responsa
 
+
+
+
+# 21/04/2023
+
+## Project
+- ¿Qué veremos en el project?
+  - Consideraciones para el desglose de actividades
+    - Desagregar: Acción de divirir algo en su partes 
+  - Tareas de Hitos
+  - Estimación de tiempos
+  - Estimación de recursos
+  - Estimación de costos 
+  - Tareas críticas 
+  - División de tareas
 
 
 
